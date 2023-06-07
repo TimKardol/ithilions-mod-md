@@ -159,13 +159,13 @@ ICM_category_factory = {
         icon = generic_construction
         cost = 0
         available = {
-            num_of_offices > 0
+            # num_of_offices > 0
             num_divisions > 0
         }
         complete_effect = {
             ROOT = {
                 add_offsite_building = {
-                    type = office
+                    type = offices
                     level = 5
                 }
             }
@@ -176,13 +176,13 @@ ICM_category_factory = {
         icon = generic_construction
         cost = 0
         available = {
-            num_of_offices > 0
+            # num_of_offices > 0
             num_divisions > 0
         }
         complete_effect = {
             ROOT = {
                 add_offsite_building = {
-                    type = office
+                    type = offices
                     level = 10
                 }
             }
@@ -193,16 +193,20 @@ ICM_category_factory = {
         icon = generic_construction
         cost = 0
         available = {
-            num_of_offices > 0
+            # num_of_offices > 0
             num_divisions > 0
         }
         complete_effect = {
             ROOT = {
                 add_offsite_building = {
-                    type = office
+                    type = offices
                     level = 100
                 }
             }
         }
+    }
+
+    ICM_debug_office = {
+        
     }
 }

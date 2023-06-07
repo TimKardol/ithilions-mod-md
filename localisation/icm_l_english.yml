@@ -2,21 +2,21 @@
  ICM_category_factory: "Production Cheats"
  ICM_category_factory_desc: "Add offsite factories here"
 
- ICM_add_offsite_arms_5: "Add 5 Off-Site Military factories"
- ICM_add_offsite_arms_10: "Add 10 Off-Site Military factories"
- ICM_add_offsite_arms_100: "Add 100 Off-Site Military factories"
+ ICM_add_offsite_arms_5: "Add 5 Off-Site §7Military factories§!"
+ ICM_add_offsite_arms_10: "Add 10 Off-Site §7Military factories§!"
+ ICM_add_offsite_arms_100: "Add 100 Off-Site §7Military factories§!"
 
- ICM_add_offsite_civ_5: "Add 5 Off-Site Civilian factories"
- ICM_add_offsite_civ_10: "Add 10 Off-Site Civilian factories"
- ICM_add_offsite_civ_100: "Add 100 Off-Site Civilian factories"
+ ICM_add_offsite_civ_5: "Add 5 Off-Site §gCivilian factories§!"
+ ICM_add_offsite_civ_10: "Add 10 Off-Site §gCivilian factories§!"
+ ICM_add_offsite_civ_100: "Add 100 Off-Site §gCivilian factories§!"
 
- ICM_add_offsite_navy_5: "Add 5 Off-Site Naval dockyards"
- ICM_add_offsite_navy_10: "Add 10 Off-Site Naval dockyards"
- ICM_add_offsite_navy_100: "Add 100 Off-Site Naval dockyards"
+ ICM_add_offsite_navy_5: "Add 5 Off-Site §3Naval dockyards§!"
+ ICM_add_offsite_navy_10: "Add 10 Off-Site §3Naval dockyards§!"
+ ICM_add_offsite_navy_100: "Add 100 Off-Site §3Naval dockyards§!"
 
- ICM_add_offsite_office_5: "Add 5 Off-Site offices"
- ICM_add_offsite_office_10: "Add 10 Off-Site offices"
- ICM_add_offsite_office_100: "Add 100 Off-Site offices"
+ ICM_add_offsite_office_5: "Add 5 Off-Site offices §R(Unstable)§!"
+ ICM_add_offsite_office_10: "Add 10 Off-Site offices §R(Unstable)§!"
+ ICM_add_offsite_office_100: "Add 100 Off-Site offices §R(Unstable)§!"
  
  ICM_category_resources: "Resource Cheats"
  ICM_category_resources_desc: "Add resources here"
@@ -27,5 +27,3 @@
  ICM_add_steel: "Add 500 steel to capital"
  ICM_add_rubber: "Add 500 rubber to capital"
  ICM_add_tungsten: "Add 500 tungsten to capital"
-
- 
