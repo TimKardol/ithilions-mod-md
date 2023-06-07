@@ -1,0 +1,14 @@
+ICM_category_factory = {
+    icon = generic_propaganda
+    visible = {
+        is_ai = no
+    }
+}
+
+
+ICM_category_resources = {
+	icon = generic_prospect_for_resources
+	visible = {
+		is_ai = no
+	}
+}

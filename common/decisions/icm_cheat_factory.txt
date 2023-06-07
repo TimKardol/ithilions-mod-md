@@ -1,0 +1,208 @@
+ICM_category_factory = {
+    ICM_add_offsite_civ_5 = {
+		icon = generic_construction
+		cost = 0
+		available = {
+			num_of_civilian_factories > 0
+			num_divisions > 0
+		}
+		complete_effect = {
+			ROOT = {
+				add_offsite_building = {
+					type = industrial_complex
+					level = 5
+				}
+			}
+		}
+	}
+
+
+    ICM_add_offsite_civ_10 = {
+		icon = generic_construction
+		cost = 0
+		available = {
+			num_of_civilian_factories > 0
+			num_divisions > 0
+		}
+		complete_effect = {
+			ROOT = {
+				add_offsite_building = {
+					type = industrial_complex
+					level = 10
+				}
+			}
+		}
+	}
+
+
+    ICM_add_offsite_civ_100 = {
+		icon = generic_construction
+		cost = 0
+		available = {
+			num_of_civilian_factories > 0
+			num_divisions > 0
+		}
+		complete_effect = {
+			ROOT = {
+				add_offsite_building = {
+					type = industrial_complex
+					level = 100
+				}
+			}
+		}
+	}
+    
+    ICM_add_offsite_arms_5 = {
+        icon = generic_construction
+        cost = 0
+        available = {
+            num_of_military_factories > 0
+            num_divisions > 0
+        }
+        complete_effect = {
+            ROOT = {
+                add_offsite_building = {
+                    type = arms_factory
+                    level = 5
+                }
+            }
+        }
+    }
+
+    ICM_add_offsite_arms_10 = {
+        icon = generic_construction
+        cost = 0
+        available = {
+            num_of_military_factories > 0
+            num_divisions > 0
+        }
+        complete_effect = {
+            ROOT = {
+                add_offsite_building = {
+                    type = arms_factory
+                    level = 10
+                }
+            }
+        }
+    }
+
+
+    ICM_add_offsite_arms_100 = {
+        icon = generic_construction
+        cost = 0
+        available = {
+            num_of_military_factories > 0
+            num_divisions > 0
+        }
+        complete_effect = {
+            ROOT = {
+                add_offsite_building = {
+                    type = arms_factory
+                    level = 100
+                }
+            }
+        }
+    }
+
+    ICM_add_offsite_navy_5 = {
+        icon = generic_construction
+        cost = 0
+        available = {
+            num_of_naval_factories > 0
+            num_divisions > 0
+        }
+        complete_effect = {
+            ROOT = {
+                add_offsite_building = {
+                    type = dockyard
+                    level = 5
+                }
+            }
+        }
+    }
+
+    ICM_add_offsite_navy_10 = {
+        icon = generic_construction
+        cost = 0
+        available = {
+            num_of_naval_factories > 0
+            num_divisions > 0
+        }
+        complete_effect = {
+            ROOT = {
+                add_offsite_building = {
+                    type = dockyard
+                    level = 10
+                }
+            }
+        }
+    }
+
+    ICM_add_offsite_navy_100 = {
+        icon = generic_construction
+        cost = 0
+        available = {
+            num_of_naval_factories > 0
+            num_divisions > 0
+        }
+        complete_effect = {
+            ROOT = {
+                add_offsite_building = {
+                    type = dockyard
+                    level = 100
+                }
+            }
+        }
+    }
+
+    ICM_add_offsite_office_5 = {
+        icon = generic_construction
+        cost = 0
+        available = {
+            num_of_offices > 0
+            num_divisions > 0
+        }
+        complete_effect = {
+            ROOT = {
+                add_offsite_building = {
+                    type = office
+                    level = 5
+                }
+            }
+        }
+    }
+
+    ICM_add_offsite_office_10 = {
+        icon = generic_construction
+        cost = 0
+        available = {
+            num_of_offices > 0
+            num_divisions > 0
+        }
+        complete_effect = {
+            ROOT = {
+                add_offsite_building = {
+                    type = office
+                    level = 10
+                }
+            }
+        }
+    }
+
+    ICM_add_offsite_office_100 = {
+        icon = generic_construction
+        cost = 0
+        available = {
+            num_of_offices > 0
+            num_divisions > 0
+        }
+        complete_effect = {
+            ROOT = {
+                add_offsite_building = {
+                    type = office
+                    level = 100
+                }
+            }
+        }
+    }
+}

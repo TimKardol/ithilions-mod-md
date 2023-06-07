@@ -1,0 +1,103 @@
+ICM_category_resources = {
+    ICM_add_aluminum = {
+		icon = aluminium
+		cost = 0
+		fixed_random_seed = no
+		complete_effect = {
+			random_owned_state = {
+				LIMIT = {
+					THIS = { is_capital = yes }
+				}
+				add_resource = {
+					type = aluminium
+					amount = 500
+				}
+			}
+		}
+	}
+	
+	ICM_add_chromium = {
+		icon = chromium
+		cost = 0
+		fixed_random_seed = no
+		complete_effect = {
+			random_owned_state = {
+				LIMIT = {
+					THIS = { is_capital = yes }
+				}
+				add_resource = {
+					type = chromium
+					amount = 500
+				}
+			}
+		}
+	}
+	
+	ICM_add_oil = {
+		icon = oil
+		cost = 0
+		fixed_random_seed = no
+		complete_effect = {
+			random_owned_state = {
+				LIMIT = {
+					THIS = { is_capital = yes }
+				}
+				add_resource = {
+					type = oil
+					amount = 500
+				}
+			}
+		}
+	}
+	
+	ICM_add_steel = {
+		icon = steel
+		cost = 0
+		fixed_random_seed = no
+		complete_effect = {
+			random_owned_state = {
+				LIMIT = {
+					THIS = { is_capital = yes }
+				}
+				add_resource = {
+					type = steel
+					amount = 500
+				}
+			}
+		}
+	}
+	
+	ICM_add_rubber = {
+		icon = rubber
+		cost = 0
+		fixed_random_seed = no
+		complete_effect = {
+			random_owned_state = {
+				LIMIT = {
+					THIS = { is_capital = yes }
+				}
+				add_resource = {
+					type = rubber
+					amount = 500
+				}
+			}
+		}
+	}
+	
+	ICM_add_tungsten = {
+		icon = tungsten
+		cost = 0
+		fixed_random_seed = no
+		complete_effect = {
+			random_owned_state = {
+				LIMIT = {
+					THIS = { is_capital = yes }
+				}
+				add_resource = {
+					type = tungsten
+					amount = 500
+				}
+			}
+		}
+	}
+}
